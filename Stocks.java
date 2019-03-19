@@ -28,6 +28,8 @@ public class PortfolioTester
         System.out.println("Expected: 3069.23");
     }
 }
+
+
 public class Portfolio {
 
     private Stock[] stocks;
